@@ -16,7 +16,7 @@ The goal is to help **BrainStation Mutual Fund** managers decide which airline s
 - Develop calculated fields, highlight tables, and custom visualizations in Tableau.  
 - Derive clear, actionable insights for airline performance and investment potential.  
 - Communicate findings through an executive summary and interactive Tableau story.
-🌐 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Assignment_2_17597066088080/FlightsandAirports?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🌐 [View Interactive Story on Tableau Public](https://public.tableau.com/views/Assignment_2_17597066088080/FlightsandAirports?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## Key Business Questions
